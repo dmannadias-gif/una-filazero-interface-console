@@ -1,0 +1,2 @@
+C:\Users\annas\OneDrive\Documentos\FilaZeroConsole\bin\Debug\net10.0\FilaZeroConsole.exe
+C:\Users\annas\OneDrive\Documentos\FilaZeroConsole\bin\Debug\net10.0\FilaZeroConsole.dll
